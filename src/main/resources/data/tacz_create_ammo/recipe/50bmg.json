@@ -1,0 +1,24 @@
+﻿{
+  "type": "create:mixing",
+  "ingredients": [
+    {"item": "minecraft:copper_ingot"},
+    {"item": "minecraft:copper_ingot"},
+    {"item": "minecraft:copper_ingot"},
+    {"item": "minecraft:gunpowder"},
+    {"item": "minecraft:gunpowder"},
+    {"item": "minecraft:gunpowder"},
+    {"item": "minecraft:lapis_lazuli"},
+    {"item": "minecraft:blaze_rod"}
+  ],
+  "results": [
+    {
+      "id": "tacz:ammo",
+      "count": 4,
+      "components": {
+        "minecraft:custom_data": {"AmmoId": "tacz:50bmg"},
+        "minecraft:max_stack_size": 30
+      }
+    }
+  ],
+  "heat_requirement": "heated"
+}

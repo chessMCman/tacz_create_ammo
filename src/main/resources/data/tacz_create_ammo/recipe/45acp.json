@@ -1,0 +1,20 @@
+﻿{
+  "type": "create:mixing",
+  "ingredients": [
+    {"item": "minecraft:copper_ingot"},
+    {"item": "minecraft:copper_ingot"},
+    {"item": "minecraft:copper_ingot"},
+    {"item": "minecraft:gunpowder"},
+    {"item": "minecraft:gunpowder"}
+  ],
+  "results": [
+    {
+      "id": "tacz:ammo",
+      "count": 18,
+      "components": {
+        "minecraft:custom_data": {"AmmoId": "tacz:45acp"},
+        "minecraft:max_stack_size": 60
+      }
+    }
+  ]
+}
